@@ -1,2 +1,2 @@
 # Bank
-Phyton
+Python
